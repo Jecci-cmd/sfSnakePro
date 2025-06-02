@@ -1,0 +1,13 @@
+sfSnake.vcxproj
+sfSnake.vcxproj.filters
+Debug/
+Release/
+[Bb]uild/
+*.exe
+.vscode
+*.log
+*.zip
+.cache
+.idea
+cmake-build-*
+compile_commands.json
